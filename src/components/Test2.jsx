@@ -1,5 +1,4 @@
-
-
+import React from "react";
 
 const Test2 = () => {
     //  화살표 함수 사용

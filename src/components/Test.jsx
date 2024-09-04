@@ -1,3 +1,4 @@
+import React from "react";
 
 function Test() {
     // return 밖 영역의 주석
